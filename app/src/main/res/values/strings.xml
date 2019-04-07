@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Psychedelic</string>
+    <string name="weibosdk_demo_token_to_string_format">Token：%1$s \nRefresh Token：%2$s \nexpires_in：%3$s</string>
+    <string name="weibosdk_demo_token_to_string_format_1">Token：%1$s \n有效期：%2$s</string>
+    <string name="weibosdk_demo_token_has_existed">Token 仍在有效期内，无需再次登录。</string>
+    <string name="weibo_recycle_view_item_attitudes_count">赞</string>
+    <string name="weibo_recycle_view_item_comments_count">评论</string>
+    <string name="weibo_recycle_view_item_reposts_count">转发</string>
+
+
+    <string name="weibo_main_activity_no_new_data">没有新的微博</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">PhotoViewerActivity</string>
+
+</resources>
